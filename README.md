@@ -8,3 +8,4 @@ Subdirectories
 
 * timus - [Timus Online Judge](http://acm.timus.ru).
 * codeforces - [Codeforces](http://codeforces.ru/).
+* informatics - [Informatics](http://informatics.mccme.ru).
